@@ -1,8 +1,11 @@
 {
-  "responses": {
-  "responseTime": 300
+  "responses": [
+    {
+      "name": "Customer API",
+      "responseTime": 300
   },
-  "responses2:" {
-  "responseTime": 500
+  {
+      "name": "Transaction API",
+      "responseTime": 500
   }
 }

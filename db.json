@@ -1,5 +1,4 @@
-{
-      "responses": [
+ "responses": [
          {
              "name": "Customer API",
              "responseTime": 300
@@ -9,5 +8,3 @@
               "responseTime": 500
          }
       ]
-
-}

@@ -1,10 +1,12 @@
+{ 
  "responses": [
          {
              "name": "Customer API",
-             "responseTime": 300
+             "responseTime": "300"
          },
          {
               "name": "Transaction API",
-              "responseTime": 500
+              "responseTime": "500"
          }
-      ]
+ ]
+}

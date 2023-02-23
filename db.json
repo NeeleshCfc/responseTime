@@ -1,1 +1,1 @@
-{ "responses": [{"name": "Customer API","responseTime": 300},{"name": "Transaction API","responseTime": 50000000}]}
+{[{"name": "Customer API","responseTime": 300},{"name": "Transaction API","responseTime": 500}]}
